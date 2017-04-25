@@ -1,2 +1,4 @@
 .env
 ./src/.env
+./src/tmp/
+./src/log/
